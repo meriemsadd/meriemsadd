@@ -79,9 +79,9 @@ I’m passionate about turning **ideas** into **elegant, innovative, and profess
 
 Here are some of the projects I worked on:
 
----
 
-### 📌 🎉 **Gestion Intelligente des Événements – Wilaya Oujda**
+
+### 📌  **Gestion Intelligente des Événements – Wilaya Oujda**
 - **Description:** Application web pour la gestion complète des événements organisés par la Wilaya.  
   - **Inscription des participants** avec formulaire clair  
   - **Mail automatique personnalisé** avec invitation et **QR code**  
@@ -99,7 +99,7 @@ Here are some of the projects I worked on:
 
 ---
 
-### 📌 💻 **Application de Suivi des Traitements Médicaux – JavaFX**
+### 📌 **Application de Suivi des Traitements Médicaux – JavaFX**
 - **Description:** Application desktop pour gérer et suivre les traitements médicaux des patients.  
   - Gestion des **patients, médicaments et ordonnances**  
   - **Historique complet** des traitements et alertes automatiques  
@@ -112,7 +112,7 @@ Here are some of the projects I worked on:
 
 ---
 
-### 📌 📚 **Système de Gestion de Bibliothèque – Python Tkinter**
+### 📌  **Système de Gestion de Bibliothèque – Python Tkinter**
 - **Description:** Application desktop pour gérer une bibliothèque efficacement.  
   - Gestion des **livres, utilisateurs et prêts**  
   - Recherche avancée et **statistiques d’emprunts**  
