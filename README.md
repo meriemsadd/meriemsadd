@@ -33,7 +33,6 @@ I’m passionate about turning **ideas** into **elegant, innovative, and profess
   <img src="https://img.shields.io/badge/PHP-1e6091?logo=php&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Laravel-168aad?logo=laravel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-2c7da0?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-1e6091?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bootstrap-168aad?logo=bootstrap&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tailwind-2c7da0?logo=tailwindcss&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-1e6091?logo=mysql&logoColor=white&style=for-the-badge" />
